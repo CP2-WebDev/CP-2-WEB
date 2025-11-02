@@ -178,9 +178,15 @@ Exemplos:
 
 ---
 
+Link Do Projeto No Github Pages:
+https://cp2-webdev.github.io/CP-2-WEB/
+
+---
 
 ##  Licença
 Este projeto é de caráter **educacional e acadêmico**, sem fins comerciais.  
+
+---
 
 
 ##  Conclusão
