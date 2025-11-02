@@ -1,9 +1,9 @@
 let imagens = [
-    '/src/assets/imgs/hell.webp',
-    '/src/assets/imgs/perigosa.webp',
-    '/src/assets/imgs/abstrax.webp',
-    '/src/assets/imgs/cacau.webp',
-    '/src/assets/imgs/dogma.webp',
+    '/src/assets/imgs/hell.webp.png',
+    '/src/assets/imgs/perigosa.jpg.png',
+    '/src/assets/imgs/abstrax.webp.png',
+    '/src/assets/imgs/cacau.webp.png',
+    '/src/assets/imgs/dogma.webp.png',
     '/src/assets/imgs/locomotive.png',
 ];
 let tempo = 2300;

@@ -21,11 +21,20 @@ ul li a{
     }
     100%{opacity: 1;}
 }
+:root {
+    --cor-hover: #e03411;
+    --cor-texto: white;
+}
+
 /* Usamos o a por que não é um texto em si e sim um link */
 ul li:hover a {
-  color: rgb(240, 103, 5);
+  color:var(--cor-hover);
   transform: scale(1.1);
 }
+body{
+    transition: 0.5s ease;
+}
+
 .logo{
     transition: 0.5s ease;
     cursor:pointer;
@@ -60,7 +69,7 @@ article a:hover{
 }
 .menu a {
   text-decoration: none;
-  color: #000000;
+  color:var(--cor-texto);
   font-weight: bold;
 }
 .menu {
@@ -77,8 +86,7 @@ article a:hover{
 }
 .copy{
   text-align: center;
-  background-color:rgb(255, 255, 255);
-  color: rgb(0, 0, 0);
+  background-color:#b9b9b9ff;
   padding: 5px;
 }
 td::selection,
@@ -126,7 +134,7 @@ input:focus::placeholder{
     
 }
 .botoes:hover{
-    background-color:#007BFF;
+    background-color:#46f71a;
     transform: scale(1.1);
 }
 .class{     
@@ -148,4 +156,7 @@ input:focus::placeholder{
   border-radius: 8px; /* opcional, dá um acabamento suave */
   display: block;
   margin: 0 auto;
+}
+#botoesBranco{
+    color: white;
 }
