@@ -5,8 +5,8 @@ let imagens = [
     '../assets/imgs/cacau.webp.png',
     '../assets/imgs/dogma.webp.png',
     '../assets/imgs/locomotive.png',
-    '../assets/imgs/solenne.webp.png',
-    '../assets/imgs/helles.webp.png'
+    '../assets/imgs/Solenne.webp.png',
+    '../assets/imgs/Helles.webp.png'
 ];
 let tempo = 2300;
 
