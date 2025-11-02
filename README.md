@@ -27,7 +27,13 @@ Cervejaria-Agnello/
 │   │       ├── mistery.png
 │   │       ├── locomotive.png
 │   │       ├── Helles.webp.png
-│   │       └── ouropretana.webp.png
+│   │       ├── ouropretana.webp.png
+│   │       ├── itaipava.webp.png
+│   │       ├── roletarussa.webp.png
+│   │       ├── schornstein.webp.png
+│   │       ├── evermaine.webp.png
+│   │       ├── holandesa86red.webp.png
+│   │       └── motim.webp.png
 │   │
 │   ├── css/
 │   │   ├── index.style.css
@@ -41,24 +47,40 @@ Cervejaria-Agnello/
 │   │   └── efeitos.css
 │   │
 │   ├── js/
-│   │   ├── script.js
-│   │   ├── quiz.js
-│   │   ├── idade.js
-│   │   └── slide.js
+│   │   ├── script.js              → Controle de cores e temas
+│   │   ├── quiz.js                → Lógica do quiz de recomendação
+│   │   ├── idade.js               → Verificação de idade (18+)
+│   │   └── slide.js               → Slideshow automático de produtos
 │   │
 │   └── pages/
-│       ├── pagina1.html         → Quiz de recomendação
-│       ├── pagina2.html         → Carrinho
-│       ├── pagina3.html         → Sobre nós
-│       ├── pagina4.html         → Clube do Malte
-│       ├── pagina5.html         → Login / Registrar-se
-│       ├── confirmacao.html     → Tela de compra concluída
-│       ├── slideshow.html       → Catálogo dinâmico
-│       └── Páginas individuais de produtos
+│       ├── pagina1.html           → Quiz de recomendação
+│       ├── pagina2.html           → Carrinho
+│       ├── pagina3.html           → Sobre nós
+│       ├── pagina4.html           → Clube do Malte
+│       ├── pagina5.html           → Login / Registrar-se
+│       ├── confirmacao.html       → Tela de compra concluída
+│       ├── slideshow.html         → Exibição dinâmica das cervejas
+│       │
+│       ├── abstrax.html           → Dádiva Abstrax West Coast Double IPA
+│       ├── cacau.html             → Cacau IPA
+│       ├── dogma.html             → Cerveja Dogma
+│       ├── erdinger.html          → Alemã Erdinger Helles
+│       ├── everbrewevermaine.html → Evermaine
+│       ├── hell.html              → Motim Hell de Janeiro
+│       ├── holandesa86red.html    → Cerveja holandesa 8.6 Red
+│       ├── itaipava.html          → Itaipava
+│       ├── locomotive.html        → Locomotive
+│       ├── mistery.html           → Mystery
+│       ├── motim.html             → Motim Dubhlinn Dry Stout
+│       ├── ouropretanaamerican.html → Ouropretana American
+│       ├── Roletarussa.html       → Roleta Russa IPA
+│       ├── SchornsteinAllDay.html → Schornstein All Day IPA
+│       ├── sollene.html           → Solenne Belgian Strong Golden Ale
+│       └── TrooperIronMaiden.html → Trooper Iron Maiden Ale
 │
 └── README.md
-```
 
+```
 ---
 
 ##  Tecnologias Utilizadas  
