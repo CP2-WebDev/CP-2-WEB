@@ -1,12 +1,12 @@
 let imagens = [
-    '/src/assets/imgs/hell.webp.png',
-    '/src/assets/imgs/mistery.png',
-    '/src/assets/imgs/motim.webp.png',
-    '/src/assets/imgs/cacau.webp.png',
-    '/src/assets/imgs/dogma.webp.png',
-    '/src/assets/imgs/locomotive.png',
-    '/src/assets/imgs/solenne.webp.png',
-    '/src/assets/imgs/helles.webp.png'
+    '../assets/imgs/hell.webp.png',
+    '../assets/imgs/mistery.png',
+    '../assets/imgs/motim.webp.png',
+    '../assets/imgs/cacau.webp.png',
+    '../assets/imgs/dogma.webp.png',
+    '../assets/imgs/locomotive.png',
+    '../assets/imgs/solenne.webp.png',
+    '../assets/imgs/helles.webp.png'
 ];
 let tempo = 2300;
 
