@@ -35,7 +35,7 @@ document.getElementById("quiz-form").addEventListener("submit", function (event)
     " Evermaine — aromática e complexa, ideal para relaxar.",
     " Cerveja holandesa 8.6 Red — maltada e encorpada, perfeita com carnes vermelhas.",
     " Trooper Iron Maiden — escura e forte, ideal para churrascos e carnes defumadas.",
-    " Hell — equilibrada, une leveza da lager com o amargor da IPA.",
+    " Motim Hell de Janeiro — equilibrada, une leveza da lager com o amargor da IPA.",
     " Mystery — leve e dourada, ótima para eventos e comemorações.",
     " Motim — frutada e seca, refrescante para dias quentes.",
     " Cacau IPA — com notas de café e chocolate, ótima para noites frias.",
@@ -62,14 +62,14 @@ let linksCervejas = {
   "Evermaine": "../pages/everbrewevermaine.html",
   "Cerveja holandesa 8.6 Red": "../pages/holandesa86red.html",
   "Trooper Iron Maiden": "../pages/TrooperIronMaiden.html",
-  "Hell": "../pages/hell.html",
+  "Motim Hell de Janeiro": "../pages/hell.html",
   "Mystery": "../pages/mistery.html",
   "Motim": "../pages/motim.html",
   "Cacau IPA": "../pages/cacau.html",
   "Dogma": "../pages/dogma.html",
   "Locomotive": "../pages/locomotive.html",
-  "Solenne": "../pages/solenne.html",
-  "Alemã Erdinger Helles": "../pages/erdinger.html"
+  "Solenne": "../pages/sollene.html",
+  "Alemã Erdinger Helles": "../pages/erdinger.html",
 };
 
 // procura qual cerveja o tipoSelecionado contém
